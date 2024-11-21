@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zoho_mail_tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3345ad4966704299854ff586adbed161a3419ad3")]
 [assembly: System.Reflection.AssemblyProductAttribute("zoho_mail_tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zoho_mail_tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

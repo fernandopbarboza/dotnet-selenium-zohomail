@@ -160,3 +160,4 @@ C:\Users\ferna\OneDrive\Documentos\_SetMaxValue\PR0J3CT5\dotnet-selenium-zohomai
 C:\Users\ferna\OneDrive\Documentos\_SetMaxValue\PR0J3CT5\dotnet-selenium-zohomail\zoho_mail_tests\obj\Debug\net8.0\zoho_mail_tests.pdb
 C:\Users\ferna\OneDrive\Documentos\_SetMaxValue\PR0J3CT5\dotnet-selenium-zohomail\zoho_mail_tests\obj\Debug\net8.0\zoho_mail_tests.genruntimeconfig.cache
 C:\Users\ferna\OneDrive\Documentos\_SetMaxValue\PR0J3CT5\dotnet-selenium-zohomail\zoho_mail_tests\obj\Debug\net8.0\ref\zoho_mail_tests.dll
+C:\Users\ferna\OneDrive\Documentos\_SetMaxValue\PR0J3CT5\dotnet-selenium-zohomail\zoho_mail_tests\obj\Debug\net8.0\zoho_mail_tests.sourcelink.json
