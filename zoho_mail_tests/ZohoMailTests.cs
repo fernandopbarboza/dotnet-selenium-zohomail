@@ -14,10 +14,6 @@ namespace zoho_mail_tests;
         [Category("Selenium")]
         public void LoginZoho()
         {
-        /*
-        cd C:\Program Files\Google\Chrome\Application
-        chrome.exe --remote-debugging-port=4444 --user-data-dir="C:\Users\ferna\AppData\Local\Google\Chrome\User Data"
-        */
 
             //IWebDriver driver = new ChromeDriver();
             ChromeOptions options = new ChromeOptions();

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nIQnfORRsy4=",
+  "dgSpecHash": "nEqtPAgzg4o=",
   "success": true,
   "projectFilePath": "C:\\Users\\ferna\\OneDrive\\Documentos\\_SetMaxValue\\PR0J3CT5\\dotnet-selenium-zohomail\\zoho_mail_tests\\zoho_mail_tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",
